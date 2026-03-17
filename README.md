@@ -1,10 +1,10 @@
-# 📬 Posts Manager
+#  Posts Manager
 
 A Flutter CRUD application built on top of the [JSONPlaceholder](https://jsonplaceholder.typicode.com) REST API. Features a clean service-layer architecture, typed exception handling, and fully managed async UI states — all without third-party state management libraries.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Project Info](#project-info)
 - [Dependencies](#dependencies)
